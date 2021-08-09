@@ -267,7 +267,7 @@ const App = () => {
 									title="Instagram"
 									rel="noopener noreferrer"
 								>
-									Issues
+									Instagram
 								</a>
 							</li>
 						</ul>
